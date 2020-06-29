@@ -1,0 +1,48 @@
+.vs/
+.idea/
+*.user
+
+Build
+
+.DS_Store
+Thumbs.db
+Thumbs.db.meta
+
+UnityProject/*.csproj
+UnityProject/*.sln
+UnityProject/logs
+UnityProject/obj
+UnityProject/Library/
+UnityProject/Temp
+UnityProject/Assets/Plugins/Editor/JetBrains
+UnityProject/Assets/Plugins/Editor/JetBrains.meta
+
+ConsoleProject/obj
+ConsoleProject/bin
+
+ServerProject/obj
+ServerProject/bin
+
+ServiceProject/obj
+ServiceProject/bin
+
+# ADD YOUR CUSTOM IGNORE BELOW
+UnityProject/Assets/Plugins/Editor.meta
+
+
+
+
+
+### TEXT MESH PRO - скорей всего удалим
+UnityProject/Assets/TextMesh Pro/Documentation
+UnityProject/Assets/TextMesh Pro/Fonts
+UnityProject/Assets/TextMesh Pro/Sprites
+UnityProject/Assets/TextMesh Pro/*.meta
+UnityProject/Assets/TextMesh Pro/Resources/Fonts & Materials
+UnityProject/Assets/TextMesh Pro/Resources/Sprite Assets
+UnityProject/Assets/TextMesh Pro/Resources/Style Sheets
+UnityProject/Assets/TextMesh Pro/Resources/Shaders
+UnityProject/Assets/TextMesh Pro/Resources/*.txt
+UnityProject/Assets/TextMesh Pro/Resources/*.meta
+!UnityProject/Assets/TextMesh Pro/Resources/*asset.meta
+### TEXT MESH PRO - скорей всего удалим
